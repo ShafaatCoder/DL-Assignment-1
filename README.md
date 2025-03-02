@@ -2,7 +2,7 @@
 # Implementation of a Feedforward Neural Network (FNN) for MNIST Digit Classification
 
 ## Overview
-This project implements a Feedforward Neural Network (FNN) for digit classification using the MNIST dataset. The model is built using TensorFlow/Keras and optimized with various hyperparameters.
+This project implements a Feedforward Neural Network (FNN) for digit classification using the MNIST dataset. The model is built using TensorFlow/Keras and optimized with various hyperparameters .
 
 ## Dataset
 - **Name:** MNIST
